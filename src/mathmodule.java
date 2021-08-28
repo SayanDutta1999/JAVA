@@ -9,8 +9,8 @@ public class mathmodule {
         System.out.println(Math.abs(-20));
 
         int i;
-        for(i = 0; i < 6; i++){
-            System.out.println(Math.random());
+        for(i = 0; i < (int)(Math.random() * 101); i++){
+            System.out.println((int)(Math.random() * 101));
         }
         System.out.println((int)(Math.random() * 101));
     }
