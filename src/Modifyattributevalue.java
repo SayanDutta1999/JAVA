@@ -1,7 +1,7 @@
 public class Modifyattributevalue {
     int x ;
     int y =  9;
-    //multiple atrributes
+    //multiple atrributes or field
     String fname = "John";
     String lname = "Doe";
     int age = 24;
